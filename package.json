@@ -1,5 +1,5 @@
 {
-  "name": "sdenv-jsdom",
+  "name": "sdenv-jsdom-jackson-fork",
   "version": "1.1.0",
   "description": "jsdom的sdenv补环境框架专用",
   "keywords": [
@@ -9,7 +9,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "author": "pysunday",
+  "author": "pysunday(fork by jackson)",
   "license": "ISC",
   "dependencies": {
     "cssstyle": "^4.0.1",
